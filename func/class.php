@@ -4,11 +4,11 @@
 
 		private $conect_db;
 
-		private $host = "mysql.hostinger.com.br";
+		private $host = "";
 
-		private $user = "u264509104_adm";
+		private $user = "";
 
-		private $password = "ftpfacul1";
+		private $password = "";
 
 		
 
